@@ -39,4 +39,8 @@ http://ecomparatio.net/~khk/NORM-DECOMP-DIST/zerl.html
 
 - gettransformarray: get a array of a string with letter transformations
 
+# Usage
+
+The library depends on the textnorm library. Also include it to your Project. (Get it from: https://github.com/ecomp-shONgit/text-normalisation)
+
 
